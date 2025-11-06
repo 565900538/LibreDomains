@@ -12,6 +12,13 @@
       "content": "43.225.157.77",
       "ttl": 3600,
       "proxied": false
+    },
+     {
+      "type": "CNAME",
+      "name": "www",
+      "content": "43.225.157.77",
+      "ttl": 3600,
+      "proxied": true
     }
   ]
 }
