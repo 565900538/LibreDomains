@@ -1,0 +1,17 @@
+{
+  "description": "个人博客网站",
+  "owner": {
+    "name": "哈哈先生",
+    "github": "565900538",
+    "email": "565900538@qq.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "43.225.157.77",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
